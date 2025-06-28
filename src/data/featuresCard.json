@@ -1,0 +1,34 @@
+{
+  "Patient Management": [
+    "Electronic Health Records (EHR)",
+    "Patient Registration & Check-in",
+    "Medical History Tracking",
+    "Prescription Management",
+    "Lab Results Integration",
+    "Imaging System Integration"
+  ],
+  "Scheduling & Operations": [
+    "Online Appointment Booking",
+    "Staff Schedule Management",
+    "Resource Allocation",
+    "Queue Management",
+    "Automated Reminders",
+    "Waitlist Management"
+  ],
+  "Communication": [
+    "Secure Patient Messaging",
+    "Doctor-Patient Portal",
+    "Internal Staff Communication",
+    "Notification System",
+    "Telemedicine Integration",
+    "Mobile App Access"
+  ],
+  "Analytics & Reporting": [
+    "Performance Dashboards",
+    "Financial Reporting",
+    "Patient Satisfaction Metrics",
+    "Clinical Analytics",
+    "Compliance Reporting",
+    "Custom Report Builder"
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "24/7 Doctor Consultations",
+    "description": "Video, audio, and chat consultations with qualified doctors anytime, anywhere",
+    "icon": "📞"
+  },
+  {
+    "title": "AI Language Translation",
+    "description": "Real-time translation between doctor and patient in 15+ Indian languages",
+    "icon": "🌐"
+  },
+  {
+    "title": "1-Hour Medicine Delivery",
+    "description": "Fastest medicine delivery to your doorstep with genuine medications",
+    "icon": "💊"
+  },
+  {
+    "title": "Lab Test Booking",
+    "description": "Home sample collection and lab test booking with verified labs",
+    "icon": "🧪"
+  },
+  {
+    "title": "Emergency Support",
+    "description": "Ambulance booking and emergency medical support in critical situations",
+    "icon": "🚑"
+  },
+  {
+    "title": "Surgery + Travel Packages",
+    "description": "Complete packages for treatment in other cities or countries",
+    "icon": "✈️"
+  },
+  {
+    "title": "AI Health Assistant",
+    "description": "Smart chatbot for health guidance, symptoms analysis, and bookings",
+    "icon": "🧠"
+  },
+  {
+    "title": "Medical Records",
+    "description": "Secure storage and easy access to all your medical history",
+    "icon": "📄"
+  }
+]

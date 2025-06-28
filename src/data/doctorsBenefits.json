@@ -1,0 +1,39 @@
+[
+  {
+    "icon": "👥",
+    "title": "Free Onboarding",
+    "badge": "₹0 Setup Cost",
+    "description": "No subscription fees - join our platform completely free"
+  },
+  {
+    "icon": "💰",
+    "title": "Keep 90% payout",
+    "badge": "90% Earnings",
+    "description": "Industry-best payout rates with transparent pricing"
+  },
+  {
+    "icon": "🧑‍⚕️",
+    "title": "More Patients",
+    "badge": "3x More Patients",
+    "description": "AI-powered patient matching to increase your consultation volume"
+  },
+  {
+    "icon": "🌐",
+    "title": "Multilingual Reach",
+    "badge": "15+ Languages",
+    "description": "Serve patients in their preferred language for better communication"
+  },
+  {
+    "icon": "🤖",
+    "title": "Specialized AI Chat Bot",
+    "badge": "personalized assistant",
+    "description": "analyse paitent health data and helps in advanced analysis"
+  },
+  {
+    "icon": "💳",
+    "title": "Fast Payouts",
+    "badge": "72-Hours Payout",
+    "description": "Receive your earnings quickly with fast and secure payouts"
+  }
+  
+]
